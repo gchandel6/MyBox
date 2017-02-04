@@ -1,0 +1,8 @@
+,SeriesName,tvdbID,Network,tvdbRating,indicator,Action,Adventure,Animation,Children,Comedy,Crime,Documentary,Drama,Family,Fantasy,Food,Game Show,Home and Garden,Horror,Mini-Series,Mystery,News,Reality,Romance,Science-Fiction,Soap,Special Interest,Sport,Suspense,Talk Show,Thriller,Travel,Western
+0,Game of Thrones,121361,HBO,6,541.5,0,0.333333333333,0,0,0,0,0,0.333333333333,0,0.333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Sherlock,176941,BBC One,9,847.602,0,0.2,0,0,0,0.2,0,0.2,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0.2,0,0
+0,The Big Bang Theory,80379,CBS,8,658.24,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Friends,79168,NBC,10,828.1,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0
+0,The Kapil Sharma Show,310679,Sony TV,10,810.0,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Silicon Valley,277165,HBO,9,681.21,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Breaking Bad,81189,AMC,0,0.0,0,0,0,0,0,0.25,0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0,0.25,0,0
